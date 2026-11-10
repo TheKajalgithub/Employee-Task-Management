@@ -1,0 +1,17 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot
+backend/target/
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive configuration
+backend/src/main/resources/application.properties
+
+# Environment files
+.env
+.env.*
